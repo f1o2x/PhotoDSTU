@@ -1,0 +1,4 @@
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Release\Photoshop_DSTU.exe.config
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Release\Photoshop_DSTU.Form1.resources
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Release\Photoshop_DSTU.Properties.Resources.resources
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Release\Photoshop_DSTU.csproj.GenerateResource.Cache

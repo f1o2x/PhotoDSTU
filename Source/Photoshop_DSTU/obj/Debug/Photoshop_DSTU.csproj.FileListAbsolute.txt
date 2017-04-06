@@ -1,0 +1,90 @@
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe.config
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.pdb
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form1.resources
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Properties.Resources.resources
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csproj.GenerateResource.Cache
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.exe
+D:\SkyDrive\Documents\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.pdb
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe.config
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.exe
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.pdb
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.pdb
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\mscorlib.dll
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\normidna.nlp
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\normnfc.nlp
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\normnfd.nlp
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\normnfkc.nlp
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\normnfkd.nlp
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form1.resources
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe.config
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.exe
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.pdb
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.pdb
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\mscorlib.dll
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\ru\mscorlib.resources.dll
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\normidna.nlp
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\normnfc.nlp
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\normnfd.nlp
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\normnfkc.nlp
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\normnfkd.nlp
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form1.resources
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csproj.GenerateResource.Cache
+C:\Users\Smoria\Desktop\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe.config
+C:\Users\Smoria\Desktop\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.exe
+C:\Users\Smoria\Desktop\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.pdb
+C:\Users\Smoria\Desktop\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe
+C:\Users\Smoria\Desktop\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.pdb
+C:\Users\Smoria\Desktop\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csprojResolveAssemblyReference.cache
+C:\Users\Smoria\Desktop\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form1.resources
+C:\Users\Smoria\Desktop\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Properties.Resources.resources
+C:\Users\Smoria\Desktop\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csproj.GenerateResource.Cache
+D:\SkyDrive\University\Комп графика\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe.config
+D:\SkyDrive\University\Комп графика\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe
+D:\SkyDrive\University\Комп графика\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.pdb
+D:\SkyDrive\University\Комп графика\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form1.resources
+D:\SkyDrive\University\Комп графика\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form2.resources
+D:\SkyDrive\University\Комп графика\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Properties.Resources.resources
+D:\SkyDrive\University\Комп графика\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csproj.GenerateResource.Cache
+D:\SkyDrive\University\Комп графика\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.exe
+D:\SkyDrive\University\Комп графика\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.pdb
+D:\SkyDrive\University\Комп графика\FLASH HA\Кубейко\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form2.resources
+C:\Users\Smoria\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe.config
+C:\Users\Smoria\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe
+C:\Users\Smoria\Desktop\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.pdb
+C:\Users\Smoria\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csprojResolveAssemblyReference.cache
+C:\Users\Smoria\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form1.resources
+C:\Users\Smoria\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form2.resources
+C:\Users\Smoria\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Properties.Resources.resources
+C:\Users\Smoria\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csproj.GenerateResource.Cache
+C:\Users\Smoria\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.exe
+C:\Users\Smoria\Desktop\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.pdb
+D:\SkyDrive\University\Комп графика\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe.config
+D:\SkyDrive\University\Комп графика\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.exe
+D:\SkyDrive\University\Комп графика\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.pdb
+D:\SkyDrive\University\Комп графика\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe
+D:\SkyDrive\University\Комп графика\Photoshop_DSTU\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.pdb
+D:\SkyDrive\University\Комп графика\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csprojResolveAssemblyReference.cache
+D:\SkyDrive\University\Комп графика\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form1.resources
+D:\SkyDrive\University\Комп графика\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form2.resources
+D:\SkyDrive\University\Комп графика\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Properties.Resources.resources
+D:\SkyDrive\University\Комп графика\Photoshop_DSTU\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\Source\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe.config
+C:\Users\Vladislav\Desktop\Source\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.exe
+C:\Users\Vladislav\Desktop\Source\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.pdb
+C:\Users\Vladislav\Desktop\Source\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.exe
+C:\Users\Vladislav\Desktop\Source\Photoshop_DSTU\bin\Debug\Photoshop_DSTU.pdb
+C:\Users\Vladislav\Desktop\Source\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Source\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form1.resources
+C:\Users\Vladislav\Desktop\Source\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Form2.resources
+C:\Users\Vladislav\Desktop\Source\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Source\Photoshop_DSTU\obj\Debug\Photoshop_DSTU.csproj.GenerateResource.Cache
