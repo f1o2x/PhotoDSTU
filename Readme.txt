@@ -5,4 +5,4 @@ Possibilities:
 -Mirroring
 -Rotation
 -Shift color channels (RGB -> GBR -> RBG)
--Add philters
+-Philters
