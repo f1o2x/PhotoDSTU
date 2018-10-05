@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photoshop_DSTU", "Photoshop_DSTU\Photoshop_DSTU.csproj", "{7820760B-49A0-4DDD-9B0D-2B82128839E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{28218E1A-AA52-4824-8695-D78FDD5F9094}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{7820760B-49A0-4DDD-9B0D-2B82128839E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7820760B-49A0-4DDD-9B0D-2B82128839E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7820760B-49A0-4DDD-9B0D-2B82128839E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28218E1A-AA52-4824-8695-D78FDD5F9094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28218E1A-AA52-4824-8695-D78FDD5F9094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28218E1A-AA52-4824-8695-D78FDD5F9094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28218E1A-AA52-4824-8695-D78FDD5F9094}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6A6F8C1-EA11-4500-914A-C8F1E643CAA6}
 	EndGlobalSection
 EndGlobal
