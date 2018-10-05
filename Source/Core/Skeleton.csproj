@@ -63,8 +63,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="MainController.cs" />
-    <Compile Include="CommandTree.cs" />
-    <Compile Include="File.cs" />
+    <Compile Include="Tools\File.cs" />
     <Compile Include="UI\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -102,5 +101,6 @@
       <Name>CommonLibrary</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

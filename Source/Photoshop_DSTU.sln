@@ -5,7 +5,11 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photoshop_DSTU", "Photoshop_DSTU\Photoshop_DSTU.csproj", "{7820760B-49A0-4DDD-9B0D-2B82128839E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{28218E1A-AA52-4824-8695-D78FDD5F9094}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skeleton", "Core\Skeleton.csproj", "{28218E1A-AA52-4824-8695-D78FDD5F9094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrary", "CommonLibrary\CommonLibrary.csproj", "{283CA186-4D73-4E68-8CD0-30EB594818FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseTools", "Base\BaseTools.csproj", "{7E86AA22-EB4E-4FC9-BB31-36F5171248B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{28218E1A-AA52-4824-8695-D78FDD5F9094}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28218E1A-AA52-4824-8695-D78FDD5F9094}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28218E1A-AA52-4824-8695-D78FDD5F9094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283CA186-4D73-4E68-8CD0-30EB594818FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283CA186-4D73-4E68-8CD0-30EB594818FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283CA186-4D73-4E68-8CD0-30EB594818FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283CA186-4D73-4E68-8CD0-30EB594818FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E86AA22-EB4E-4FC9-BB31-36F5171248B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E86AA22-EB4E-4FC9-BB31-36F5171248B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E86AA22-EB4E-4FC9-BB31-36F5171248B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E86AA22-EB4E-4FC9-BB31-36F5171248B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
